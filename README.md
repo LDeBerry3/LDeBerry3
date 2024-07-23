@@ -51,11 +51,14 @@ I bring over 14 years of experience in designing, implementing, and managing tec
 
 ## 📚 Recent Projects
 
-### Microsoft 365 Copilot Implementation
+### Development of Cloud IAM Solution
 
-- Developed and executed a communication strategy for a global M365 Copilot rollout.
-- Created training materials and conducted sessions to ensure user proficiency.
-- Analyzed workflows to enhance user experience and adapted organization swiftly to updates.
+-	Designed and Deployed Azure AD B2C: Architected and implemented an Azure Active Directory B2C solution to manage and authenticate patient and provider identities securely.
+-	Integrated Single Sign-On (SSO): Integrated SSO with major third-party healthcare applications using OAuth 2.0 and OpenID Connect, which would result in a reduction in login-related support tickets.
+-	Implemented Conditional Access Policies: Configured conditional access policies to enforce multi-factor authentication (MFA) based on risk levels, enhancing security without compromising user experience.
+-	Automated Compliance Reporting: Developed and implemented automated compliance reporting processes using Okta’s built-in reporting tools, reducing manual reporting efforts. 
+- Designed and deployed custom Okta Workflows to generate and email compliance reports on user access changes, enhancing audit readiness.
+
 
 ### Okta Compliance Reporting Automation
 
